@@ -1,0 +1,37 @@
+th{
+    display: inline-block;
+    min-width: 15px;
+}
+td{
+    text-align:center;
+}
+span{
+    display: inline-block;
+    /*border: 1px solid blue;*/
+    margin: 1px;
+    padding: 0;
+    min-width: 25px;
+    max-width: 25px;
+    min-height: 25px;
+    max-height: 25px;
+    border-radius: 2px;
+    text-align:center;
+}
+#information{
+    max-width: 237px;
+    min-height: 30px;
+    border: 1px solid blue;
+    margin: 1px;
+    min-width: 15px;
+    border-radius: 2px;
+    text-align:center;
+}
+#command{
+    max-width: 50px;
+}
+.shot{
+    background-color: red;
+}
+.display-none{
+    display: none;
+}
