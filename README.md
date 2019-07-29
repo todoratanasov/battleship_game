@@ -1,5 +1,6 @@
 # battleship_game
 
+![Homepage view](/battleship.png)
 A small one player game that runs in to browsers.
 
 #### Starting the app
